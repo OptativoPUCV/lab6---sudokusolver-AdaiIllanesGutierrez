@@ -26,3 +26,9 @@ sudoku.c:133:13: error: implicit declaration of function ‘isEmpty’; did you 
 cc1: all warnings being treated as errors
 Compilation failed
 c5af58a
+Sat 18 May 2024 07:09:33 PM UTC: 
+ sudoku.c | 19 -------------------
+ 1 file changed, 19 deletions(-)
+ tests:  7|1
+total_score: 55/70
+5ef5f82
